@@ -335,6 +335,8 @@
 
 .firm {
     max-width: 150px;
+    max-height: 150px;
+    margin: 0;
     opacity: 0.5;
     display: block;
     margin: auto;
