@@ -4,8 +4,9 @@
 }
 
 .navbar-fixed-top .mainLogo {
-    max-height: 10vmin;
-    margin-left: 10%;
+    max-height: 17vmin;
+    max-height: 17vmin;
+    padding-left: 1vmin;
 }
 
 .navbar-fixed-top .menus a {
@@ -21,11 +22,6 @@
     letter-spacing: 5px;
     font-size: 170%;
     font-family: 'Lato', sans-serif;
-}
-
-.navbar-brand img {
-  min-width: 300px;
-  min-height: 170px;
 }
 
 .teamTitle {
@@ -336,11 +332,12 @@
 .firm {
     max-width: 150px;
     max-height: 150px;
-    margin: 0;
     opacity: 0.5;
     display: block;
     margin: auto;
     margin-bottom: 20px;
+    margin-top: 10px;
+    max-width: 70%;
 }
 
 .firm:hover {
