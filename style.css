@@ -653,3 +653,48 @@ body {
 .contactImages {
   height: 100px;
 }
+
+
+
+
+
+/* color palette built based on theme:lumen's info */
+.text-purple{
+  color:#7575eb;
+}
+.text-orange{
+  color:#ebbc75;
+}
+
+.text-redorange{
+  color:#eb9175;
+}
+
+.text-lightblue{
+  color:#75ebe1;
+}
+.text-darkblue{
+  color:#125F7D;
+}
+
+.text-yellow{
+  color:#ebdb75;
+}
+
+.text-red{
+  color:#eb7585;
+}
+
+.text-green{
+  color:#b4eb75;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.vcenter.col-xs-11{
+    width:90%;
+}
